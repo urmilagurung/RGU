@@ -1,0 +1,44 @@
+Outline Level,Outline Level,Outline Level,Outline Level,Outline Level,Outline Level
+1,Automated Asset Oversight and Maintenance Enhancement (AATOME),01/02/2024,07/11/2025,462 day,0
+2,Project Initiation,01/02/2024,07/02/2024,5 day,0
+3,Define Project Objectives and Scope,01/02/2024,05/02/2024,3 day,0
+3,Project Kickoff Meeting,05/02/2024,07/02/2024,3 day,0
+3,Meeting Team,05/02/2024,07/02/2024,3 day,0
+2,Preliminary Research,08/02/2024,12/04/2024,47 day,0
+3,Literature Review,08/02/2024,27/02/2024,14 day,0
+3,Market Research ,21/02/2024,11/03/2024,14 day,0
+3,Feasibility Study,12/03/2024,29/03/2024,14 day,0
+3,Review and Summarise,01/04/2024,12/04/2024,10 day,0
+2,Data Collection and Preprocessing ,15/04/2024,05/07/2024,60 day,0
+3,Define Image Collection Protocol,15/04/2024,26/04/2024,10 day,0
+3,Image Collection,29/04/2024,17/05/2024,15 day,0
+3,Image Labelling,20/05/2024,14/06/2024,20 day,0
+3,Image Preprocessing and Quality Enhancement,17/06/2024,05/07/2024,15 day,0
+2,Model Development and Training,08/07/2024,25/10/2024,80 day,0
+3,Choose and Implement Preprocessing Methods,08/07/2024,02/08/2024,20 day,0
+3,Model Design and Train,02/08/2024,12/09/2024,30 day,0
+3,Model Optimization and Hyperparameter Tuning,06/09/2024,17/10/2024,30 day,0
+3,Validate Model Performance,16/08/2024,25/10/2024,51 day,0
+2,Unsupervised Anomaly Detection Integration,28/10/2024,17/01/2025,60 day,0
+3,Integrate Unsupervised Learning Techniques,28/10/2024,10/01/2025,55 day,0
+3,Test and Validate Anomaly Detection,15/11/2024,17/01/2025,46 day,0
+2,System Integration and Testing,20/01/2025,30/05/2025,95 day,0
+3,Develop Integration Plan,20/01/2025,31/01/2025,10 day,0
+3,User Interface Design,03/02/2025,21/03/2025,35 day,0
+4,Design UI for Inspection Results,03/02/2025,14/02/2025,10 day,0
+4,Review and Refine UI Design,17/02/2025,28/02/2025,10 day,0
+4,Create UI,24/02/2025,21/03/2025,20 day,0
+3,Integrate Trained Models with Existing System,24/03/2025,04/04/2025,10 day,0
+3,Conduct Unit Testing,07/04/2025,18/04/2025,10 day,0
+3,Conduct Integration Testing,21/04/2025,02/05/2025,10 day,0
+3,Conduct End-to-End Testing,05/05/2025,16/05/2025,10 day,0
+3,Conduct Performance Testing,19/05/2025,30/05/2025,10 day,0
+2,Deployment and Monitoring,02/06/2025,25/07/2025,40 day,0
+3,Deploy Integrated System,02/06/2025,27/06/2025,20 day,0
+3,Monitor System Performance,30/06/2025,25/07/2025,20 day,0
+2,Revision/Revisit,28/07/2025,05/09/2025,30 day,0
+2,Final Documentation and Reporting,01/02/2024,24/10/2025,452 day,0
+3,Prepare Project Documentation,01/02/2024,26/09/2025,432 day,0
+3,Create Final Project Report,29/09/2025,24/10/2025,20 day,0
+2,Project Closure,27/10/2025,07/11/2025,10 day,0
+3,Conduct Project Review and Evaluation,27/10/2025,07/11/2025,10 day,0
